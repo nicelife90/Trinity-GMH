@@ -1544,7 +1544,7 @@ outSAY(result);
 end
 
 function TempAddC()
-result=".gobject tempadd "..ObjectNumber:GetText();
+result=".go gobject "..ObjectNumber:GetText();
 outSAY(result);
 end
 
