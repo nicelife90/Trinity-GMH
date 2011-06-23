@@ -1,0 +1,20 @@
+Updated for Trinity Core for use on Wrath of Loken. 
+Then Released on Ac-Web.
+Please contact Chillu to get permision to share.
+
+Current Trinity Version Developers:
+Chillu - Hellzsins@gmail.com
+
+Credits:
+Chillu - Converted to Trinity for Wrath of Loken.
+Maven - ArcEMU GMH Durrent Developer.
+Skate - ArcEMU GMH Durrent Developer.
+Ohm (a.k.a. dx and Echo) (Thank you for getting the ball rolling)
+Rushowr and his team (Original Idea)
+Taek (Hosting Blog and testing SVN "taek-it.net")
+1337dood (TicketTracker) (If it wasn't for the TicketTracker...nobody would use this thing)
+Mukele (ItemSearchForm)
+Spirit Realm Private server (in-game testing) (tsrwow.com)
+lawl (Ex-Developer) - lawl@thedanisme.com (Got me to start working on this project again, AND help me find a great server. Thank you, lawl)
+Stewart (ArcEmu Developer) - Solved the "Enter" bug on the TicketTracker. I had been looking for that fix forever.
+Original GMH Devs not list.
