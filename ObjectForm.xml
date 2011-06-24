@@ -282,7 +282,7 @@ ObjectNumber:ClearFocus();
         <HighlightFont style="GameFontHighlight" />
         <DisabledFont style="GameFontDisable" />
       </Button>
-      <Button name="$parentComponent3" text="Turn Object">
+      <Button name="$parentComponent3" text="Object drehen">
         <!--<FrameSkin skinid="dcb143e1-a4ab-4e7c-b934-1efa40101d21" frameid="2d508884-59c2-4f83-ae10-27aaad48391b" />-->
         <Size>
           <AbsDimension x="116" y="17" />
@@ -432,7 +432,7 @@ end
         <HighlightFont style="GameFontHighlight" />
         <DisabledFont style="GameFontDisable" />
       </Button>
-      <Button name="$parentComponent2" text="Place Temp">
+      <Button name="$parentComponent2" text="Zum Objekt">
         <!--<FrameSkin skinid="dcb143e1-a4ab-4e7c-b934-1efa40101d21" frameid="2d508884-59c2-4f83-ae10-27aaad48391b" />-->
         <Size>
           <AbsDimension x="116" y="17" />
