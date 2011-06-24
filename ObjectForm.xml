@@ -100,7 +100,7 @@
         <HighlightFont style="GameFontHighlight" />
         <DisabledFont style="GameFontDisable" />
       </Button>
-      <Button name="DeleteObjectNumber" text="Objekt löschen">
+      <Button name="DeleteObjectNumber" text="Objekt loeschen">
         <!--<FrameSkin skinid="dcb143e1-a4ab-4e7c-b934-1efa40101d21" frameid="2d508884-59c2-4f83-ae10-27aaad48391b" />-->
         <Size>
           <AbsDimension x="116" y="17" />
